@@ -4,4 +4,5 @@ h1 {
 
 #greeting-name {
   font-size: 3rem;
+  cursor: pointer;
 }
