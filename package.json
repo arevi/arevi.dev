@@ -1,0 +1,15 @@
+{
+  "name": "arevi.dev",
+  "version": "1.0.0",
+  "description": "Personal site for myself.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "author": "Arevi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
