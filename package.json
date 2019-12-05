@@ -4,6 +4,9 @@
   "description": "Personal site for myself.",
   "main": "server.js",
   "type": "module",
+  "engines": {
+    "node": "13.3.0"
+  },
   "scripts": {
     "start": "node ./server.js",
     "client": "cd ./client && npm run start",
