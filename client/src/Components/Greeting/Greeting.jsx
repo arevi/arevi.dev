@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './greeting.css';
 
+// Greeting component to display greeting text and name which is stored in state, for later flexibility
 function Greeting() {
   const [name, setName] = useState('Armin Dizdarevic');
 

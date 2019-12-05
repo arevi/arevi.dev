@@ -4,6 +4,7 @@ import { faEnvelope, faFile } from '@fortawesome/free-regular-svg-icons';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import './icons.css';
 
+// Component to display a row/column of icons that link to external & internal pages
 function icons() {
   return (
     <div id="icons">
